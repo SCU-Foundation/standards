@@ -1,55 +1,73 @@
 # SCU Foundation — Open Standards
 
-This repository provides the canonical index for all open standards stewarded by the SCU Foundation.  
+This repository provides the canonical index of all open standards stewarded by the SCU Foundation.  
 It does not contain the standards themselves; each standard is published on its own canonical surface and versioned independently.
 
-The Foundation is the neutral, non‑commercial steward of the SCU architecture and all Lattice standards.
+The Foundation is the neutral, non‑commercial governance root responsible for stewardship, certification, and long‑term stability of the Lattice standards ecosystem.
+
+The Lattice Research Institute (LRI) serves as the independent research body for semantic evolution, interpretability, and standards‑adjacent research.
+
+---
 
 ## Stewarded Standards
 
 ### 1. SCU — Superconducting Compute Architecture  
 Architectural definition (not a standard).  
-https://scu.foundation/architecture/
+https://scu.foundation/whitepaper/
 
-### 2. Lattice Protocol (LP v1.0 — Final)  
-Semantic, identity, and trust substrate of the AI‑native internet.  
-https://latticeprotocol.org
+### 2. Trust Stack (TS v1.0 — Final)  
+Constitutional trust, identity, safety, provenance, and interoperability standard.  
+https://latticeprotocol.org/standards/ts/
 
-### 3. Lattice Web (LW v1.0 — Final)  
-AI‑native metadata standard for the semantic web.  
-https://latticeweb.org
+### 3. Lattice Protocol (LP — Draft)  
+Semantic substrate for identity, trust, and meaning across the AI‑native internet.  
+https://latticeprotocol.org/standards/lp/
 
-### 4. Lattice Meta (LM v1.0 — Final)  
-Meta‑semantic layer for meaning stability and semantic contracts.  
-https://latticeprotocol.org/meta/
+### 4. Lattice Web (LW — Draft)  
+Metadata layer enabling structured, machine‑interpretable meaning.  
+https://latticeprotocol.org/standards/lw/
 
-### 5. Lattice Identity Token (LIT v1.0 — Final)  
-Identity layer for semantic agents and AI‑native systems.  
-https://scu.foundation/lit/
+### 5. Lattice Meta (LM — Draft)  
+Meta‑semantic layer governing contextual meaning and semantic alignment.  
+https://latticeprotocol.org/standards/lm/
 
-### 6. Trust Stack (TS v1.0‑draft — Draft Complete)  
-Safety, trust, identity, memory, cognition, perception, and governance architecture.  
-https://scu.foundation/trust-stack/
+### 6. Lattice Identity Token (LIT — Draft)  
+Identity‑binding and identity‑integrity layer for agents and systems.  
+https://latticeprotocol.org/standards/lit/
+
+---
 
 ## Reference Implementations (Not Standards)
 
-These are built by SCU Labs and are not governed by the Foundation:
+Reference implementations MAY be built by third‑party developers.  
+They are **not** governed by the SCU Foundation and MUST NOT be treated as standards.
 
-- Lattice‑Native Browser  
-- ORB OS  
-- ORB Hardware  
-- LifeLing Architecture  
-- DMM (proprietary)
+Examples include:
+
+- browsers  
+- operating environments  
+- hardware platforms  
+- agent runtimes  
+- developer tooling  
+
+These implementations are outside the scope of this repository.
+
+---
 
 ## Versioning & Governance
 
 All standards follow:
 
-- **Versioning Rules v1.2**  
-- **Change Management Charter v1.1**  
-- **Standards Registry v1.3**
+- **Versioning Governance**  
+- **Change Management**  
+- **Standards Registry**  
+- **Transparency Requirements**
 
 Canonical governance documents are maintained in the `governance` repository.
+
+The Lattice Research Institute (LRI) contributes semantic research and proposal development but does not govern standards.
+
+---
 
 ## Purpose of This Repository
 
@@ -67,8 +85,10 @@ It does **not** contain:
 - research proposals  
 - implementations  
 
+---
+
 ## Websites
 
 - SCU Foundation — https://scu.foundation  
 - Lattice Protocol — https://latticeprotocol.org  
-- Lattice Web — https://latticeweb.org
+- Lattice Research Institute — https://lattice.institute  
