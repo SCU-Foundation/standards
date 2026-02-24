@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-02-24T00:00:00Z",
+  "standards": [
+    {
+      "id": "ts-v1.0",
+      "name": "Trust Stack",
+      "version": "1.0",
+      "status": "final",
+      "steward": "SCU Foundation",
+      "description": "Defines the foundational trust, identity, and verification primitives for the SCU ecosystem.",
+      "canonical_url": "https://scu.foundation/standards/ts/v1.0/",
+      "dependencies": [],
+      "checksum": "SEE checksums.txt"
+    }
+  ]
+}
