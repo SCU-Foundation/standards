@@ -1,0 +1,5 @@
+# SCU Standards Registry — Integrity Checksums
+# Algorithm: SHA-256
+# Version: v1.0
+
+ts-v1.0  <INSERT_SHA256_OF_CANONICAL_TS_V1.0_PDF_OR_HTML_HERE>
