@@ -1,0 +1,17 @@
+{
+  "registry_version": "1.0",
+  "ecosystem": "SCU",
+  "maintainer": "SCU Foundation",
+  "description": "Metadata describing the SCU Standards Registry, its structure, and its governance.",
+  "fields": {
+    "id": "Unique identifier for the standard",
+    "name": "Human-readable name",
+    "version": "Canonical version number",
+    "status": "Final, Draft, Deprecated, Under Review",
+    "steward": "Responsible program or working group",
+    "description": "Short summary of the standard",
+    "canonical_url": "Official published location",
+    "dependencies": "List of required standards",
+    "checksum": "SHA-256 integrity hash"
+  }
+}
