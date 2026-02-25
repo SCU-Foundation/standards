@@ -7,33 +7,42 @@ The Foundation is the neutral, non‑commercial governance root responsible for 
 
 The Lattice Research Institute (LRI) serves as the independent research body for semantic evolution, interpretability, and standards‑adjacent research.
 
+The canonical repository index is:
+
+- REPO: Repo‑Map — /REPO-MAP-vE1.1.md
+- REPO: Repo‑Map — /GRM-vE1.1.json
+
 ---
 
 ## Stewarded Standards
 
 ### 1. SCU — Superconducting Compute Architecture  
 Architectural definition (not a standard).  
-https://scu.foundation/whitepaper/
+https://scu.foundation/architecture/
 
 ### 2. Trust Stack (TS v1.0 — Final)  
 Constitutional trust, identity, safety, provenance, and interoperability standard.  
-https://latticeprotocol.org/standards/ts/
+https://scu.foundation/trust-stack/
 
-### 3. Lattice Protocol (LP — Draft)  
+### 3. Lattice Protocol (LP v1.0 — Final)  
 Semantic substrate for identity, trust, and meaning across the AI‑native internet.  
 https://latticeprotocol.org/standards/lp/
 
-### 4. Lattice Web (LW — Draft)  
+### 4. Lattice Web (LW v1.0 — Final)  
 Metadata layer enabling structured, machine‑interpretable meaning.  
 https://latticeprotocol.org/standards/lw/
 
-### 5. Lattice Meta (LM — Draft)  
+### 5. Lattice Meta (LM v1.0 — Final)  
 Meta‑semantic layer governing contextual meaning and semantic alignment.  
 https://latticeprotocol.org/standards/lm/
 
-### 6. Lattice Identity Token (LIT — Draft)  
+### 6. Lattice Identity Token (LIT v1.0 — Final)  
 Identity‑binding and identity‑integrity layer for agents and systems.  
 https://latticeprotocol.org/standards/lit/
+
+### 7. Lattice Certification & Safety Layer (LCSL v1.0 — Final)  
+Certification, safety, version floors, and compliance standard.  
+https://scu.foundation/lcsl/
 
 ---
 
@@ -91,4 +100,4 @@ It does **not** contain:
 
 - SCU Foundation — https://scu.foundation  
 - Lattice Protocol — https://latticeprotocol.org  
-- Lattice Research Institute — https://lattice.institute  
+- Lattice Research Institute — https://lattice.institute
