@@ -23,3 +23,7 @@ https://latticeprotocol.org/standards/lit/lit-v1.0.pdf
 
 **GitHub Source:**  
 https://github.com/SCU-Foundation/standards/tree/main/lit
+
+Canonical references:  
+- REPO: Repo‑Map — /REPO-MAP-vE1.2.md  
+- REPO: Governance — /GRM-vE1.1.json
