@@ -3,6 +3,11 @@
 This document provides a canonical overview of the folder and file structure used in the SCU Foundation Standards Repository.  
 It ensures consistency, clarity, and long‑term maintainability across all standards.
 
+The canonical repository index is:
+
+- REPO: Repo‑Map — /REPO-MAP-vE1.1.md
+- REPO: Repo‑Map — /GRM-vE1.1.json
+
 ---
 
 ## Root Structure
@@ -14,12 +19,17 @@ It ensures consistency, clarity, and long‑term maintainability across all stan
     /lw
     /lm
     /lit
+    /lcsl
+    /registry
 CONTRIBUTING.md
 GOVERNANCE.md
 CODE_OF_CONDUCT.md
 STRUCTURE.md
+STATUS.md
+CHANGELOG.md
 LICENSE
 README.md
+VERSION
 ```
 
 ---
