@@ -22,4 +22,4 @@ https://latticeprotocol.org/standards/ts/html/
 https://latticeprotocol.org/standards/ts/ts-v1.0.pdf
 
 **GitHub Source:**  
-https://github.com/SCU-Foundation/standards/tree/main/ts
+REPO: Standards — /ts/
