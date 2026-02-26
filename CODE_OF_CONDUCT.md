@@ -4,6 +4,11 @@ The SCU Foundation is committed to maintaining a safe, respectful, and professio
 
 This Code of Conduct applies to all interactions within this repository and related communication channels.
 
+The canonical repository index is:
+
+- REPO: Repo‑Map — /REPO-MAP-vE1.1.md
+- REPO: Repo‑Map — /GRM-vE1.1.json
+
 ---
 
 ## Our Standards
