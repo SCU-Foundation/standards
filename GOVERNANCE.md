@@ -3,11 +3,17 @@
 This document describes the governance structure for the SCU Foundation Standards Repository.  
 It defines the roles, responsibilities, and processes that ensure neutrality, stability, and long‑term stewardship of the Lattice standards ecosystem.
 
+The canonical repository index is:
+
+- REPO: Repo‑Map — /REPO-MAP-vE1.1.md
+- REPO: Repo‑Map — /GRM-vE1.1.json
+
 ---
 
 ## Governance Bodies
 
 ### SCU Foundation (Steward)
+
 The SCU Foundation is the neutral, non‑commercial governance root responsible for:
 
 - maintaining canonical standards  
@@ -22,6 +28,7 @@ The Foundation does **not** develop proprietary implementations.
 ---
 
 ### Lattice Research Institute (LRI)
+
 The LRI is the independent research body responsible for:
 
 - semantic evolution  
@@ -41,17 +48,17 @@ The LRI does **not** govern standards.
 1. **Draft Stage**  
    - Non‑normative  
    - Contains `README.md` and `DRAFT.md` only  
-   - No versioning or changelog
+   - No versioning or changelog  
 
 2. **v1.0 Release**  
    - First normative edition  
    - Requires governance approval  
-   - Gains `STATUS.md`, `VERSION`, `CHANGELOG.md`, and `LICENSE`
+   - Gains `STATUS.md`, `VERSION`, `CHANGELOG.md`, and `LICENSE`  
 
 3. **Future Editions (v1.x, v2.x)**  
    - MUST follow the Change‑Management Process  
    - MUST document compatibility guarantees  
-   - MUST update the Standards Registry
+   - MUST update the Standards Registry  
 
 ---
 
@@ -72,7 +79,7 @@ All normative changes MUST follow this process:
    - Approve  
    - Request revisions  
    - Reject  
-   - Defer to future edition
+   - Defer to future edition  
 
 5. **Versioning**  
    Approved normative changes MUST increment the version number.
