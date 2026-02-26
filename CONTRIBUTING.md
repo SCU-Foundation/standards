@@ -5,27 +5,33 @@ Thank you for your interest in contributing to the SCU Foundation’s open stand
 This repository contains canonical standards stewarded by the **SCU Foundation** and informed by research from the **Lattice Research Institute (LRI)**.  
 All contributions must follow the governance, review, and change‑management processes defined below.
 
+The canonical repository index is:
+
+- REPO: Repo‑Map — /REPO-MAP-vE1.1.md
+- REPO: Repo‑Map — /GRM-vE1.1.json
+
 ---
 
 ## Contribution Principles
 
-- All contributions MUST preserve the neutrality, clarity, and non‑commercial nature of the standards.
-- All changes MUST align with the SCU Foundation governance model.
-- All proposals MUST be implementation‑agnostic and free of proprietary dependencies.
-- All contributions MUST be submitted through GitHub Issues or Pull Requests.
+- All contributions MUST preserve the neutrality, clarity, and non‑commercial nature of the standards.  
+- All changes MUST align with the SCU Foundation governance model.  
+- All proposals MUST be implementation‑agnostic and free of proprietary dependencies.  
+- All contributions MUST be submitted through GitHub Issues or Pull Requests.  
 
 ---
 
 ## How to Contribute
 
 ### 1. Filing an Issue
+
 Use GitHub Issues for:
 
 - clarifications  
 - errata  
 - proposed improvements  
 - questions about conformance  
-- requests for additional examples (non‑normative)
+- requests for additional examples (non‑normative)  
 
 Issues MUST:
 
