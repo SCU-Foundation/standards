@@ -4,7 +4,8 @@
 **Version:** v1.0  
 **Steward:** SCU Foundation  
 **Research Body:** Lattice Research Institute (LRI)  
-**Canonical Home:** https://latticeprotocol.org/standards/ts/
+**Canonical Home:** https://latticeprotocol.org/standards/ts/  
+**Repository:** REPO: Standards — /ts/
 
 ---
 
@@ -40,7 +41,7 @@ https://latticeprotocol.org/standards/ts/html/
 https://latticeprotocol.org/standards/ts/ts-v1.0.pdf
 
 **GitHub Source (this folder):**  
-https://github.com/SCU-Foundation/standards/tree/main/ts
+REPO: Standards — /ts/
 
 ---
 
@@ -91,6 +92,10 @@ This folder contains:
 - **VERSION** — version identifier  
 - **CHANGELOG.md** — version history  
 - **LICENSE** — licensing information  
+- **CODE_OF_CONDUCT.md** — behavioural expectations  
+- **CONTRIBUTING.md** — contribution rules  
+- **GOVERNANCE.md** — governance and change‑management rules  
+- **STRUCTURE.md** — canonical folder structure for this standard  
 
 ---
 
