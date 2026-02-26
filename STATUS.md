@@ -1,5 +1,10 @@
 # Standards Repository — Status
 
+The canonical repository index is:
+
+- REPO: Repo‑Map — /REPO-MAP-vE1.1.md
+- REPO: Repo‑Map — /GRM-vE1.1.json
+
 - **Repository:** Standards  
 - **Scope:** Normative standards of the SCU ecosystem  
 - **Era:** Ecosystem Era (vE1.x)  
@@ -26,4 +31,4 @@ They MUST NOT depend on GitHub structure or canonical document layout.
 - REPO: Governance — /global-rules/GIC-vE1.1.md  
 - REPO: Governance — /global-rules/VR-vE1.1.md  
 - REPO: Governance — /global-rules/NTS-vE1.1.md  
-- REPO: Governance — /standards-registry.md  
+- REPO: Governance — /standards-registry.md
